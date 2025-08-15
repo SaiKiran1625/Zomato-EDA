@@ -1,5 +1,5 @@
-<h2>**Overview of the Zomato Data Analysis
-Analyzing restaurant data from Zomato, combining it with country details to explore trends in ratings, cuisines, and locations.**</h2>
+**<h2>Overview of the Zomato Data Analysis
+Analyzing restaurant data from Zomato, combining it with country details to explore trends in ratings, cuisines, and locations.</h2>**
 
 **1. Data Loading and Inspection**
 Data Files
